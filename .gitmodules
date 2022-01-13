@@ -1,0 +1,7 @@
+[submodule "vguardiano/themes/hugo-theme-stack"]
+	path = vguardiano/themes/hugo-theme-stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack/
+[submodule "vguardiano/public"]
+	path = vguardiano/public
+	url = https://github.com/vguardiano/vguardiano.github.io.git
+	branch = main
