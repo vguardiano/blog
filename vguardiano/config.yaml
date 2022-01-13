@@ -2,7 +2,7 @@ baseurl: https://vguardiano.github.io/
 languageCode: pt-br
 theme: hugo-theme-stack
 paginate: 10
-title: Vinicius Guardiano Souza
+title: vguardiano's Blog
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -31,14 +31,14 @@ params:
 
     footer:
         since: 2022
-        customText:
+        customText: um teste para ver no que da
 
     dateFormat:
         published: 02 January 2006
         lastUpdated: 02 January 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
+        emoji: 📚
         subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         avatar:
             enabled: true
@@ -50,7 +50,7 @@ params:
         toc: true
         readingTime: true
         license:
-            enabled: true
+            enabled: false
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
