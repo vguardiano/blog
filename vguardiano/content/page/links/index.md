@@ -8,12 +8,14 @@ links:
   - title: TypeScript
     description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
     website: https://www.typescriptlang.org
-    image: ts-logo-128.png
+    image: ts-logo-128.jpg
 menu:
-    main:
+    main: 
         weight: -50
         params:
             icon: link
+
+comments: false
 ---
 
 To use this feature, add `links` section to frontmatter.
