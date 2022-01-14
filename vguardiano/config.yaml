@@ -2,7 +2,7 @@ baseurl: https://vguardiano.github.io/
 languageCode: pt-br
 theme: hugo-theme-stack
 paginate: 10
-title: vguardiano's Blog
+title: VGUARDIANO's Blog
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -58,7 +58,7 @@ params:
         provider: disqus
 
         disqusjs:
-            shortname:
+            shortname: vguardiano-github-io
             apiUrl:
             apiKey:
             admin:

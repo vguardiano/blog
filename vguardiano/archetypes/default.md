@@ -3,9 +3,9 @@ title: "{{ replace .Name "-" " " | title }}"
 description:
 date: {{ .Date | time.Format ":date_full" }}
 image:
-math: true
+math:
 license:
 hidden: false
 comments: true
-draft: false
+draft: true
 ---
